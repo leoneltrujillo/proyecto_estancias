@@ -1,0 +1,278 @@
+id_poliza,id_estancia,municipio,aseguradora,numero_de_poliza,capacidad_de_la_poliza,poliza_pagada
+1,406,victoria,seguros inbursa sa,11601-30087325,60,si
+2,1073,matamoros,axa seguros sa de cv,RNA942870000,27,si
+3,151,reynosa,axa seguros sa de cv,ENA892670000,45,si
+4,147,victoria,seguros inbursa sa,11601-30053450,41,si
+5,1103,ciudad madero,seguros el potosi,RCGE-2638,30,si
+6,1114,victoria,seguros el potosi,RCGE-1783,51,si
+7,673,altamira,grupo mexicano de seguros sa de cv,003-61-07001479-0000-01,27,si
+8,1000,ciudad madero,seguros inbursa sa,11601-30083436,51,si
+9,163,victoria,grupo nacional provincial,104747258,31,si
+10,1088,victoria,seguros el potosi,RCGE-1747,60,si
+11,386,victoria,seguros inbursa sa,11601-30052709,39,si
+12,830,ciudad madero,grupo mexicano de seguros sa de cv,003-61-07001079-0000-02,60,si
+13,999,el mante,seguros el potosi,RCGE-1132,34,si
+14,369,victoria,seguros inbursa sa,11601-30053717,46,si
+15,1095,tula,seguros inbursa sa,11601-30062690,60,si
+16,986,victoria,seguros inbursa sa,11601-30052451,60,si
+17,994,reynosa,axa seguros sa de cv,ENA899710000,43,si
+18,998,ciudad madero,axa seguros sa de cv,RNA521250500,22,si
+19,1007,matamoros,grupo mexicano de seguros sa de cv,003-61-07001460-0000-01,27,si
+20,1111,tampico,seguros inbursa sa,11601-30077504,60,si
+21,135,victoria,seguros inbursa sa,11601-30076612,60,si
+22,647,reynosa,grupo mexicano de seguros sa de cv,003-61-07001621-0000-01,38,si
+23,181,victoria,seguros inbursa sa,11601-30053405,60,si
+24,578,tampico,seguros el potosi,RCGE-2177,60,si
+25,997,victoria,seguros inbursa sa,11601-30053361,45,si
+26,1811,tampico,seguros inbursa sa,1.16E+12,26,si
+27,1825,ciudad madero,seguros el potosi,RCGE-1008,37,si
+28,1295,aldama,seguros inbursa sa,11601-30044951,45,si
+29,1312,nuevo laredo,grupo mexicano de seguros sa de cv,003-61-07001507-0000-01,27,si
+30,1862,reynosa,axa seguros sa de cv,RNA511510500,60,si
+31,2058,tampico,seguros el potosi,RCGE-2125,24,si
+32,640,hidalgo,seguros inbursa sa,11601-30062912,60,si
+33,1008,matamoros,grupo mexicano de seguros sa de cv,03-061-07001463-0000-01,50,si
+34,1305,matamoros,axa seguros sa de cv,RNA936950000,20,si
+35,1306,matamoros,axa seguros sa de cv,RNA936250000,30,si
+36,1313,tampico,seguros inbursa sa,11601-30052264,50,si
+37,1908,rio bravo,grupo mexicano de seguros sa de cv,003-61-07001416-0000-01,60,si
+38,1809,ciudad madero,seguros inbursa sa,11601-30045040,40,si
+39,2214,jaumave,seguros inbursa sa,11601-30090758,60,si
+40,1914,matamoros,grupo mexicano de seguros sa de cv,03-061-07001437-0000-01,31,si
+41,2216,nuevo laredo,grupo mexicano de seguros sa de cv,003-61-07001514-0000-01,30,si
+42,2247,el mante,seguros el potosi,RCGE-1098,37,si
+43,2254,altamira,seguros inbursa sa,11601-30062002,35,si
+44,1308,reynosa,grupo mexicano de seguros sa de cv,03-061-07001439-0000-01,60,si
+45,1309,reynosa,axa seguros sa de cv,RNA511540500,29,si
+46,1885,tampico,seguros inbursa sa,11601-30091061,56,si
+47,2235,tampico,seguros inbursa sa,11601-30091034,60,si
+48,2262,llera,seguros atlas sa,M14-2-49-6084,26,si
+49,2265,altamira,seguros inbursa sa,11601-30062431,24,si
+50,2268,matamoros,grupo mexicano de seguros sa de cv,03-061-07001440-0000-01,60,si
+51,1889,reynosa,axa seguros sa de cv,RNA511900500,26,si
+52,1911,matamoros,axa seguros sa de cv,RNA936230000,56,si
+53,1918,ciudad madero,seguros inbursa sa,11601-30077372,36,si
+54,1874,san fernando,grupo mexicano de seguros sa de cv,003-61-07001584-0000-01,60,si
+55,2242,matamoros,grupo mexicano de seguros sa de cv,003-61-07001441-0000-01,34,si
+56,2272,tampico,grupo mexicano de seguros sa de cv,003-61-07001730-0000-01,59,si
+57,1149,reynosa,grupo mexicano de seguros sa de cv,003-61-07001039-0000-01,46,si
+58,1178,rio bravo,grupo mexicano de seguros sa de cv,003-61-07001417-0000-01,30,si
+59,2055,reynosa,axa seguros sa de cv,RNA511990500,40,si
+60,2009,altamira,seguros el potosi,RCGE-1018,41,si
+61,1307,miguel aleman,grupo mexicano de seguros sa de cv,03-061-07001281-0000-02,49,si
+62,1311,nuevo laredo,grupo mexicano de seguros sa de cv,003-61-07001467-0000-01,36,si
+63,3033,altamira,seguros inbursa sa,11601-30077336,60,si
+64,2658,reynosa,grupo mexicano de seguros sa de cv,003-61-07001429-0000-01,46,si
+65,2015,victoria,seguros inbursa sa,11601-30053227,48,si
+66,1881,tampico,seguros inbursa sa,11601-30084417,54,si
+67,1901,reynosa,grupo mexicano de seguros sa de cv,03-061-0700172240002-01,52,si
+68,1919,ciudad madero,seguros inbursa sa,11601-30076550,60,si
+69,2662,tampico,seguros inbursa sa,11601-30077354,26,si
+70,3034,nuevo laredo,axa seguros sa de cv,ENA893340000,12,si
+71,3032,matamoros,grupo mexicano de seguros sa de cv,03-61-07001387-0000-01,28,si
+72,2031,tampico,seguros inbursa sa,11601-30070315,60,si
+73,2033,matamoros,axa seguros sa de cv,RNA936240000,31,si
+74,2043,nuevo laredo,grupo mexicano de seguros sa de cv,003-61-07001515-0000-01,60,si
+75,2670,tampico,seguros inbursa sa,11601-30089920,26,si
+76,3027,ciudad madero,grupo mexicano de seguros sa de cv,03-61-07001403-0000-01,55,si
+77,4854,victoria,seguros atlas sa,M14-2-49-000006083-0000-0-1,37,si
+78,4746,tampico,seguros inbursa sa,11601-30053815,43,si
+79,2660,ciudad madero,seguros inbursa sa,11601-30076827,60,si
+80,3134,tampico,seguros inbursa sa,11601-30045095,26,si
+81,1304,reynosa,axa seguros sa de cv,RNA510020500,53,si
+82,4654,tampico,seguros inbursa sa,11601-30076854,52,si
+83,3135,altamira,seguros inbursa sa,11601-30077032,38,si
+84,5164,ciudad madero,seguros inbursa sa,11601-30063252,34,si
+85,3028,victoria,seguros inbursa sa,11601-30090794,50,si
+86,3206,victoria,seguros inbursa sa,11601-30076701,37,si
+87,4542,reynosa,axa seguros sa de cv,RNA511960500,60,si
+88,4520,ciudad madero,seguros inbursa sa,11601-30077274,26,si
+89,2659,altamira,seguros inbursa sa,116013-0053370,58,si
+90,3023,tampico,seguros inbursa sa,11601-30084417,54,si
+91,3029,nuevo laredo,grupo mexicano de seguros sa de cv,003-61-07001509-0000-01,60,si
+92,6734,victoria,seguros inbursa sa,11601-30069666,55,si
+93,6722,victoria,grupo mexicano de seguros sa de cv,003-61-07001588-0000-01,60,si
+94,10454,nuevo laredo,grupo mexicano de seguros sa de cv,003-61-07001064-0000-02,30,si
+95,5478,matamoros,grupo mexicano de seguros sa de cv,003-61-07001299-0000-01,38,si
+96,4919,abasolo,axa seguros sa de cv,ENA892920000,32,si
+97,7915,tampico,seguros inbursa sa,11601-30077960,56,si
+98,6606,aldama,seguros inbursa sa,11601-30046487,40,si
+99,7159,victoria,seguros el potosi,RCGE-1656,57,si
+100,6417,victoria,seguros inbursa sa,11601-30069782,60,si
+101,7815,tampico,seguros inbursa sa,11601-30081973,45,si
+102,7168,victoria,seguros inbursa sa,11601-30084541,44,si
+103,5971,victoria,seguros inbursa sa,11601-30070379,60,si
+104,7817,altamira,seguros inbursa sa,11601-30083061,60,si
+105,10457,victoria,seguros el potosi,RCGE-2225,33,si
+106,2672,ciudad madero,seguros inbursa sa,11601-30077265,56,si
+107,7443,victoria,seguros inbursa sa,11601-30052969,31,si
+108,5470,matamoros,grupo mexicano de seguros sa de cv,003-61-07001468-0000-01,32,si
+109,5472,el mante,seguros el potosi,RCGE-264,40,si
+110,6615,victoria,seguros inbursa sa,11601-30060317,60,si
+111,7740,victoria,axa seguros sa de cv,ENA893490000,51,si
+112,7728,reynosa,axa seguros sa de cv,ENA893070000,32,si
+113,7839,ciudad madero,seguros atlas sa,M14-2-49-000006081-0000-0-1,46,si
+114,7726,victoria,axa seguros sa de cv,ENA893600000,35,si
+115,8392,el mante,seguros el potosi,RCGE-1073,60,si
+116,6982,reynosa,grupo mexicano de seguros sa de cv,003-61-07001585-0000-01,59,si
+117,7746,ciudad madero,seguros inbursa sa,11601-30077050,46,si
+118,10716,ciudad madero,seguros inbursa sa,11601-30077522,32,si
+119,10137,tampico,seguros inbursa sa,11601-30070805,58,si
+120,6580,tampico,seguros inbursa sa,11601-30070707,30,si
+121,10537,el mante,seguros el potosi,RCGE-1359,30,si
+122,6291,reynosa,seguros inbursa sa,16500-30067098,48,si
+123,7448,victoria,axa seguros sa de cv,ENA893390000,32,si
+124,7900,reynosa,axa seguros sa de cv,RNA505170500,60,si
+125,6537,altamira,seguros inbursa sa,11601-30053138,17,si
+126,10094,altamira,seguros inbursa sa,11601-30090883,30,si
+127,10105,ciudad madero,grupo mexicano de seguros sa de cv,003-61-07001727-0000-01,46,si
+128,10096,altamira,seguros inbursa sa,11601-30069755,60,si
+129,8477,ciudad madero,seguros inbursa sa,11601-30077657,27,si
+130,9708,xicotencatl,seguros el potosi,RCGE-1004,43,si
+131,10456,victoria,seguros inbursa sa,11601-30060898,52,si
+132,13526,padilla,seguros inbursa sa,11601-30062333,40,si
+133,7548,victoria,axa seguros sa de cv,ENA894190000,50,si
+134,10101,victoria,seguros inbursa sa,11601-30062896,54,si
+135,7919,tampico,seguros inbursa sa,11601-30076774,33,si
+136,8472,nuevo laredo,grupo mexicano de seguros sa de cv,003-61-07001461-0000-01,20,si
+137,9407,victoria,seguros atlas sa,M14-2-49-0000602-0000-0-1,32,si
+138,10434,victoria,seguros inbursa sa,11601-30061012,40,si
+139,10106,altamira,seguros inbursa sa,11601-30076523,38,si
+140,9408,matamoros,grupo mexicano de seguros sa de cv,03-061-07001412-0002-01,60,si
+141,11556,victoria,axa seguros sa de cv,ENA893560000,26,si
+142,13889,rio bravo,seguros inbursa sa,16500-30060415,60,si
+143,14114,victoria,seguros inbursa sa,11601-30052923,44,si
+144,13913,tampico,seguros inbursa sa,11601-30061968,29,si
+145,8393,victoria,seguros inbursa sa,11601-30085764,44,si
+146,9257,ciudad madero,seguros atlas sa,M14-2-49-000006077-0000-0-1,53,si
+147,14133,reynosa,axa seguros sa de cv,RNA757460200,17,si
+148,13600,tampico,seguros el potosi,RCGE-1034,26,si
+149,13746,tampico,seguros atlas sa,M14-2-49-000006086-0000-0-1,25,si
+150,16196,matamoros,grupo mexicano de seguros sa de cv,003-61-07001438-0000-01,47,si
+151,13406,aldama,seguros el potosi,RCGE-2615,60,si
+152,13697,altamira,seguros el potosi,RCGE-1340,30,si
+153,1906,valle hermoso,grupo mexicano de seguros sa de cv,03-061-07001443-0000-01,60,si
+154,13577,ciudad madero,seguros el potosi,RCGE-1014,34,si
+155,4519,el mante,seguros el potosi,RCGE-1003,60,si
+156,16701,victoria,seguros inbursa sa,11601-30076630,43,si
+157,16679,aldama,seguros inbursa sa,11601-30076881,35,si
+158,16680,altamira,seguros inbursa sa,11601-30053628,60,si
+159,16682,tampico,seguros inbursa sa,11601-30077915,34,si
+160,16683,ciudad madero,seguros inbursa sa,11601-30077309,28,si
+161,16685,matamoros,grupo mexicano de seguros sa de cv,003-61-07001436-0000-01,49,si
+162,16686,nuevo laredo,grupo mexicano de seguros sa de cv,003-61-07001499-0000-01,13,si
+163,16687,nuevo laredo,grupo mexicano de seguros sa de cv,003-61-07001502-0000-01,40,si
+164,16693,tampico,seguros inbursa sa,11601-30052406,30,si
+165,16694,tampico,seguros inbursa sa,11601-30062495,28,si
+166,16696,tampico,seguros inbursa sa,11601-30061600,56,si
+167,16698,victoria,axa seguros sa de cv,ENA892900001,24,si
+168,16699,victoria,axa seguros sa de cv,ENA891880000,40,si
+169,16700,victoria,seguros el potosi,RCGE-2605,41,si
+170,16704,victoria,seguros el potosi,RCGE-3236,60,si
+171,16689,reynosa,axa seguros sa de cv,RNA917670000,32,si
+172,16806,ciudad madero,seguros inbursa sa,11601-30076925,40,si
+173,16808,altamira,seguros inbursa sa,11601-30076747,60,si
+174,16809,victoria,seguros inbursa sa,11601-30077808,27,si
+175,16811,tampico,seguros el potosi,RCGE-1028,50,si
+176,16812,ciudad madero,seguros inbursa sa,11601-30090534,25,si
+177,16825,tampico,grupo mexicano de seguros sa de cv,03-061-07001488-0000-01,60,si
+178,16830,tampico,seguros inbursa sa,11601-30077498,34,si
+179,16831,reynosa,axa seguros sa de cv,RNA920800001,56,si
+180,16835,tampico,seguros el potosi,RCGE-1730,40,si
+181,16845,matamoros,axa seguros sa de cv,RNA936100001,25,si
+182,16856,victoria,seguros el potosi,RCGE-1781,60,si
+183,16840,altamira,seguros el potosi,RCGE-1768,60,si
+184,16829,ciudad madero,seguros inbursa sa,11601-30053753,19,si
+185,16836,victoria,axa seguros sa de cv,ENA892870000,38,si
+186,16209,jimenez,grupo mexicano de seguros sa de cv,03-061-07001587-0000-01,47,si
+187,16703,victoria,seguros inbursa sa,11601-30053673,58,si
+188,16855,nuevo laredo,grupo mexicano de seguros sa de cv,03-061-07001466-0000-01,27,si
+189,17574,victoria,seguros inbursa sa,11601-30053389,31,si
+190,17583,victoria,seguros el potosi,RCGE-3097,22,si
+191,17589,victoria,seguros inbursa sa,11601-30084925,41,si
+192,17592,gonzalez,seguros inbursa sa,11601-30053290,35,si
+193,17685,victoria,seguros el potosi,RCGE-1736,42,si
+194,19370,matamoros,grupo mexicano de seguros sa de cv,003-61-07001365-0000-02,40,si
+195,19244,victoria,seguros inbursa sa,11601-30069746,36,si
+196,19247,matamoros,axa seguros sa de cv,RNA943960000,30,si
+197,19254,altamira,axa seguros sa de cv,RNA528580500,37,si
+198,19273,altamira,seguros inbursa sa,11601-30077513,46,si
+199,18245,matamoros,axa seguros sa de cv,RNA936070000,31,si
+200,18241,victoria,axa seguros sa de cv,ENA891670000,39,si
+201,18242,victoria,seguros inbursa sa,11601-30054351,44,si
+202,18247,matamoros,grupo mexicano de seguros sa de cv,03-061-07001458-0000-01,37,si
+203,18232,victoria,seguros inbursa sa,11601-30076667,60,si
+204,20830,el mante,seguros el potosi,RCGE-1363,49,si
+205,20552,el mante,seguros el potosi,RCGE-2619,60,si
+206,20561,matamoros,grupo mexicano de seguros sa de cv,003-61-07001469-0000-01,60,si
+207,20816,reynosa,grupo mexicano de seguros sa de cv,03-061-07001462-0000-01,40,si
+208,20818,victoria,seguros inbursa sa,11601-30061539,22,si
+209,20842,victoria,axa seguros sa de cv,ENA894090000,54,si
+210,20606,altamira,seguros inbursa sa,11601-30083016,30,si
+211,19652,victoria,axa seguros sa de cv,ENA893210000,34,si
+212,20868,altamira,seguros inbursa sa,11601-30052273,36,si
+213,20985,tampico,seguros inbursa sa,11601-30077176,51,si
+214,20078,matamoros,grupo mexicano de seguros sa de cv,003-61-07001455-0000-01,40,si
+215,20037,altamira,seguros inbursa sa,11601-30063118,32,si
+216,22309,altamira,seguros el potosi,RCGE-1074,36,si
+217,22206,tampico,seguros inbursa sa,11601-30084088,26,si
+218,22194,victoria,seguros inbursa sa,11601-30053432,40,si
+219,22181,reynosa,axa seguros sa de cv,RNA510010500,56,si
+220,22305,hidalgo,seguros inbursa sa,11601-30053806,36,si
+221,22186,tampico,seguros inbursa sa,11601-30077620,27,si
+222,22184,tampico,seguros el potosi,RCGE-1343,45,si
+223,22197,tampico,seguros el potosi,RCGE-3648,60,si
+224,22189,el mante,seguros el potosi,RCGE-1365,28,si
+225,22187,altamira,seguros inbursa sa,11601-30069602,25,si
+226,22188,altamira,seguros inbursa sa,11601-30052521,37,si
+227,22195,altamira,seguros inbursa sa,11601-30090366,28,si
+228,22293,matamoros,grupo mexicano de seguros sa de cv,003-61-07001489-0000-01,27,si
+229,22192,rio bravo,seguros inbursa sa,16500-30062985,40,si
+230,22204,victoria,seguros inbursa sa,11601-30069808,60,si
+231,22190,tampico,seguros inbursa sa,11601-30083917,47,si
+232,22191,reynosa,axa seguros sa de cv,RNA942040000,60,si
+233,22180,xicotencatl,seguros el potosi,RCGE-1078,39,si
+234,22193,san fernando,grupo mexicano de seguros sa de cv,003-61-07001673-000-01,45,si
+235,22964,matamoros,axa seguros sa de cv,ENA894600000,28,si
+236,22976,reynosa,axa seguros sa de cv,RNA943750000,60,si
+237,23418,altamira,seguros inbursa sa,11601-30078264,34,si
+238,23419,altamira,axa seguros sa de cv,ENA900610000,40,si
+239,23420,altamira,seguros inbursa sa,11601-30078371,16,si
+240,23421,altamira,seguros inbursa sa,11601-30063859,38,si
+241,24178,camargo,grupo mexicano de seguros sa de cv,03-061-07001690-0000-01,48,si
+242,24647,matamoros,grupo mexicano de seguros sa de cv,003-61-07001689-0000-01,21,si
+243,24136,rio bravo,grupo mexicano de seguros sa de cv,003-61-07001310-0000-02,60,si
+244,23500,reynosa,grupo mexicano de seguros sa de cv,003-61-07001367-0000-02,28,si
+245,24252,guemez,axa seguros sa de cv,ENA901910000,58,si
+246,24430,victoria,seguros inbursa sa,11601-30078807,29,si
+247,24149,reynosa,grupo mexicano de seguros sa de cv,003-61-07001413-0000-01,60,si
+248,24956,victoria,seguros inbursa sa,11601-30086273,53,si
+249,23718,altamira,seguros el potosi,RCGE-2209,31,si
+250,25022,nuevo laredo,axa seguros sa de cv,ENA902250000,32,si
+251,24177,rio bravo,grupo mexicano de seguros sa de cv,003-61-07001341-000-01,25,si
+252,23551,rio bravo,seguros inbursa sa,11601-30071644,51,si
+253,24987,soto la marina,axa seguros sa de cv,ENA898590000,32,si
+254,24979,gonzalez,seguros inbursa sa,11601-30078629,30,si
+255,25016,victoria,seguros el potosi,RCGE-2691,42,si
+256,24205,gonzalez,seguros inbursa sa,11601-30070850,36,si
+257,25518,victoria,axa seguros sa de cv,ENA900530000,32,si
+258,25519,rio bravo,seguros inbursa sa,16500-30066473,16,si
+259,25525,victoria,axa seguros sa de cv,ENA901890000,32,si
+260,25831,jimenez,axa seguros sa de cv,ENA897400000,32,si
+261,25522,tula,axa seguros sa de cv,ENA901070000,40,si
+262,25886,victoria,axa seguros sa de cv,ENA897210000,32,si
+263,25901,reynosa,axa seguros sa de cv,ENA897340000,32,si
+264,26137,el mante,seguros el potosi,RCGE-1024,44,si
+265,25913,matamoros,seguros el potosi,RCGE-3268,60,si
+266,25524,tampico,axa seguros sa de cv,ENA902370000,52,si
+267,25526,san fernando,grupo mexicano de seguros sa de cv,003-61-07001735-0000-01,48,si
+268,25521,padilla,seguros inbursa sa,11601-30086344,30,si
+269,25839,reynosa,seguros el potosi,RCGE-3267,16,si
+270,25528,victoria,seguros inbursa sa,11601-30086282,16,si
+271,25922,victoria,axa seguros sa de cv,ENA897470000,40,si
+272,25925,victoria,axa seguros sa de cv,ENA897460000,40,si
+273,25527,victoria,axa seguros sa de cv,ENA899960000,39,si
+274,25974,victoria,axa seguros sa de cv,ENA897240000,54,si
+275,25520,guerrero,grupo mexicano de seguros sa de cv,003-61-07001738-0000-01,48,si
+276,25832,san fernando,axa seguros sa de cv,ENA897630000,40,si
+277,25517,nuevo laredo,grupo mexicano de seguros sa de cv,003-61-07001740-0000-01,16,si
